@@ -30,7 +30,7 @@
 ### IGUALACIÓN DE IMPEDANCIA
 ![imagen](https://user-images.githubusercontent.com/105674953/185295904-355c3684-f5c8-4830-8797-f8b7f21aaf2a.png)
 ## 3.	Explicación y resolución de ejercicios o problemas
-
+## **Capitulo 13**
 
 
 
