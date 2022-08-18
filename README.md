@@ -1,9 +1,8 @@
 # INFORME.N7
 ## 1. Objetivos
-### Exponer cómo se generan las ondas seno
-### Identificar los diversos valores de voltaje y corriente de una onda seno
-### Aplicar las leyes de circuito básicas a circuitos de ca resistivos
-### Describir las funciones y las características básicas de un capacitor ademas de sus tipos
+### Exponer de la estructura y características básicas de los inductores.
+### Analizar los inductores ya sean en circuitos en serie o en paralelo
+### Investigar las funcion que tienen los tranformadores en el voltaje
 ## 2. Marco Teorico
 ## CAP 13
 ### INDUCTOR BASICO
@@ -132,7 +131,7 @@
 ## 4. Video
 https://youtu.be/4KUqreBimJg
 ## 5. Conclusiones
-### Las ondas seno o las frecuencias son un tema muy importante puesto a que nos permiten conocer los periodos o frecuencias de una onda lo cual nos ayuda al momento de nosotros analizar circuitos con un osciloscopio puesto a que este muestra las ondas de un circuito pero nosotros tenemos que analizarlas.
-### La capacitancia es un tema muy importante que se tiene que estudiar de una forma correcta puesto a que estos capacitores se utilizaran en la mayoria nde nustros circuitos electricos y al no saber como es su funcionamiento se tendran varios problemas al moemnto de aplicarlos.
+### Al trazar valores en un gráfico de una calculadora medida, no siempre es posible colocar el cursor exactamente donde lo desea (debido a la naturaleza de los simuladores). Por lo tanto, debe colocar el indicador lo más cerca posible y luego estimar el valor que está tratando de medir.
+### Cuanto más fuerte sea el campo para una corriente dada, mayor será la inductancia. Así, una bobina con muchas vueltas tendrá más inductancia que una bobina con pocas vueltas y el bobinado de la bobina en el núcleo magnético tendrá más inductancia que la bobina en el núcleo no magnético.
 ## 6. Biliografia
 #### Floyd, T. L. (n.d.). FLOYD FLOYD OCTAVA EDICIÓN OCTAVA. Retrieved May 18, 2022, from www.pearsoneducacion.net/floyd
